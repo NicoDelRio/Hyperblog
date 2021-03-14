@@ -2,6 +2,8 @@ Esta es la historia de Nicolás del Río
 
 Nicolás del Río tiene 34 años y nació en CABA, Argentina.
 
+Esta linea se hizo con el usuario colaborador del proyecto.
+
 Hoy hablaremos de su vida.
 
 Mide 1,67 m.
