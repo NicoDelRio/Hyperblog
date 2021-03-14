@@ -1,5 +1,4 @@
-body
-{
+body {
     color: rgb(59, 59, 59);
     background-color: #333;
     text-align: center;
@@ -9,8 +8,7 @@ body
     padding: 0;
 }
 
-#cabecera
-{
+#cabecera {
     background-color: #33a;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
@@ -25,15 +23,13 @@ body
     vertical-align: middle;
 }
 
-#cabecera #tagline
-{
+#cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
 
-#container
-{
+#container {
     background-color: white;
     width: 70%;
     padding: 0;
@@ -42,13 +38,19 @@ body
     margin: 0 auto;
 }
 
-#container h1
-{
+#container h1 {
     font-size: 20px;
 }
 
-#post
-{
-    background: white;
+#post {
     padding: 0;
+}
+
+#footer {
+    margin-top: 80px;
+    border-width: 10px;
+    padding: 5px;
+    background: #777;
+    color: white;
+    text-align: center;
 }
