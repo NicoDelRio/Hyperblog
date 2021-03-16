@@ -46,6 +46,13 @@ body {
     padding: 0;
 }
 
+#post #img
+{
+    display: block;
+    margin: auto;
+    align-content: center;
+}
+
 #footer {
     margin-top: 80px;
     border-width: 10px;
